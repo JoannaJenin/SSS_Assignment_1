@@ -4,5 +4,6 @@
   
   
   
-#Username: admin
-#Password: admin
+<script>Username: admin</script>
+<br>
+<script>Password: admin</script>
