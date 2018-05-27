@@ -38,7 +38,7 @@
         <button type="submit" name="submit" class="btn btn-primary btn-block btn-large">Let me in.</button>
     </form>
 
-    <p style="text-align:center;color: #95afc0">Done by <a href="https://github.com/JoannaJenin/SSS-Assignment_1">Joanna - IT16015890</a></p>
+    <p style="text-align:center;color: #95afc0">Done by <a href="https://github.com/JoannaJenin/SSS_Assignment_1">Joanna - IT16015890</a></p>
 </div>
 
 
